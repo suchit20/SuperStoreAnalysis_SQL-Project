@@ -1,3 +1,3 @@
-# SuperStoreAnalysis_SQL-Project
+# SuperstoreAnalysis_SQLProject
 
-This is the SQL Project for SuperStore Analysis
+This is the SQL project for Superstore analysis
